@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is DCFA-7D4E
+
+ Directory of C:\Users\umadi\OneDrive\Documents\GitFolder
+
+03/20/2024  08:11 PM    <DIR>          .
+03/20/2024  08:07 PM    <DIR>          ..
+03/20/2024  08:11 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  118,245,203,968 bytes free
